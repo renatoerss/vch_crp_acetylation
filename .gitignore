@@ -1,0 +1,50 @@
+# ===== Python & Colab =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.ipynb_checkpoints/
+.ipynb_checkpoints/*
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+
+# ===== Data =====
+data/
+*.csv
+*.tsv
+*.xlsx
+*.txt
+*.zip
+*.gz
+*.tar
+*.fastq
+*.bam
+*.sam
+*.bw
+*.bigWig
+*.bed
+*.gtf
+*.gff*
+*.rds
+*.RData
+
+# ===== Logs & temp =====
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# ===== Colab outputs =====
+drive/
+sample_data/
